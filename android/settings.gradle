@@ -1,0 +1,3 @@
+rootProject.name = 'onesignal_playground'
+
+include ':app'

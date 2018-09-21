@@ -1,5 +1,7 @@
 {
   "expo": {
     "sdkVersion": "27.0.0"
-  }
+  },
+  "name": "onesignal_playground",
+  "displayName": "onesignal_playground"
 }
